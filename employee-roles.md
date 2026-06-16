@@ -2,6 +2,6 @@
 
 | Employee ID | Name | Role |
 |-------------|-------|-------|
-| EMP001 | T Sai Ganesh | Production support Engineer |
-| EMP002 | Shruti | HR Manager |
-| EMP003 | Tipu Rehan | Team Lead |
+| EMP101 | Ganesh Tandle  | Production support Engineer |
+| EMP102 | Pratham Aggarwal | HR Manager |
+| EMP103 | Shailesh Mehta | Team Lead |
