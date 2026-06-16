@@ -4,12 +4,11 @@
 This project manages employee information and department details.
 
 ## Features
-- Add Employee
-- Update Employee
-- Delete Employee
-- Search Employee
-- Department Management
+## Project Files
 
-## Technologies
-- GitHub
-- Markdown
+- employees.md
+- departments.md
+- employee-roles.md
+- salary-details.md
+- leave-management.md
+- database-schema.md
